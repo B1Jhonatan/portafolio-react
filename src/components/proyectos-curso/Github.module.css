@@ -1,0 +1,36 @@
+.ghProye {
+  width: 320px;
+  text-align: center;
+  padding: 15px;
+  border-top: 2px solid white;
+  border-right: 1px solid white;
+  border-radius: 10px;
+}
+
+.ghBoton {
+  padding: 10px;
+  background-color: none;
+  border: 2px solid white;
+  border-radius: 5px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.ghBoton:hover {
+  background-color: white;
+  color: black;
+}
+
+.ghContain {
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+  align-content: center;
+}
+
+.ghBoxProye {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: space-around;
+}

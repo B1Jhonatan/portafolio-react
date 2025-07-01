@@ -1,4 +1,5 @@
 import PerfilImplement from "../../perfil/PerfilImplement";
+import GithubImplement from "../../proyectos-curso/GithubImplement";
 import ProyectoImplement from "../../proyectos/ProyectoImplement";
 import TecnologiasImplement from "../../tecnologias/TecnologiasImplement";
 import styles from "./Portafolio.module.css";
@@ -9,6 +10,7 @@ const PortafolioBody = () => {
       <PerfilImplement />
       <TecnologiasImplement />
       <ProyectoImplement />
+      <GithubImplement />
     </div>
   );
 };
