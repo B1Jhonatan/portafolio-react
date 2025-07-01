@@ -1,8 +1,8 @@
 .containProye {
-  width: 320px;
-  padding: 15px;
-  border-radius: 5px;
-  background-color: black;
+  width: 310px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid gray;
 }
 
 .containText {
@@ -17,7 +17,9 @@
 }
 
 .imgProye {
-  width: 320px;
+  width: 310px;
+  border-radius: 5px;
+  border: 1px solid gray;
 }
 
 .proyeImple {

@@ -1,3 +1,4 @@
+import HabilidadesImplement from "../../habilidades/HabilidadesImplement";
 import PerfilImplement from "../../perfil/PerfilImplement";
 import GithubImplement from "../../proyectos-curso/GithubImplement";
 import ProyectoImplement from "../../proyectos/ProyectoImplement";
@@ -11,6 +12,7 @@ const PortafolioBody = () => {
       <TecnologiasImplement />
       <ProyectoImplement />
       <GithubImplement />
+      <HabilidadesImplement />
     </div>
   );
 };

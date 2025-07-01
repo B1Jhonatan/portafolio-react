@@ -15,7 +15,7 @@ const HeaderComponent = () => {
             css={styles.boton}
           />
           <RedirectComponent
-            nombre="Tecnoligias"
+            nombre="Tecnologias"
             href="/#Tenologias"
             css={styles.boton}
           />

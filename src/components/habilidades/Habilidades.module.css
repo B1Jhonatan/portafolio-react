@@ -1,0 +1,17 @@
+.containHab {
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+  align-content: center;
+}
+
+.textHab {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-around;
+}
+
+.divText {
+  width: 200px;
+}
