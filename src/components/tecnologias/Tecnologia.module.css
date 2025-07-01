@@ -7,12 +7,16 @@
   height: 80px;
 }
 
+.containTecsGao {
+  text-align: center;
+  align-content: center;
+  min-height: 100vh;
+}
+
 .containTecs {
   width: 100%;
-  align-content: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 40px;
-  min-height: 100vh;
 }
